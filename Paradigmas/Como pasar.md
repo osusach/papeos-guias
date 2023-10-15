@@ -1,29 +1,29 @@
-#Como pasar Paradigmas de Programación
+# Como pasar Paradigmas de Programación
 ![PARADIGMAS](./sources/title.gif "gif titulo")
 ![USACHLOGO](./sources/ceo.jpg "usach-logo")
 Lucas Mesías 
 lucas.mesias@usach.cl
 @lucasnomasss
 Skyrdow#8444
-##Introducción
+## Introducción
 Esto NO es una guía de scheme, prolog o java, porque los profes pueden simplemente cambiar los paradigmas del laboratorio, pero aún más importante que eso, es porque el foco del ramo es que aprendas a programar. Si el ramo realmente fuera de paradigmas, pasarían 9 o 10 diferentes, las peps serían de varios paradigmas a la vez, y los laboratorios serían más cortos.
 El laboratorio es la parte más importante y que se debe llevar toda tu atención, las peps son ejercicios que ya deberías dominar si realmente hiciste bien el laboratorio respectivo.
 
-##Antes de comenzar el laboratorio
-###Con qué profesor tomar el ramo
+## Antes de comenzar el laboratorio
+### Con qué profesor tomar el ramo
 No importa realmente, el profesor que escojas no va a determinar si pasas el ramo o no, depende de **ti**.
 Igual recomiendo a Roberto Gonzalez, sabe más.
 
-###Ignorar los comodines
+### Ignorar los comodines
 Hacer el laboratorio como si no existieran los comodines, o al menos asumiendo que no los vas a necesitar, es importante. He visto que muchas personas se ponen las pilas en las últimas semanas del semestre, haciendo todos los comodines a la vez, preguntando en el grupo de whatsapp las cosas que todos nos estábamos preguntando la primera semana que se liberó el enunciado, si lo haces a tiempo, podrás hablar con tus compañeros las dudas que todos tienen al inicio, detalles pequeños o errores comunes que se van encontrando.
 
-###Leer el enunciado
+### Leer el enunciado
 Es importante leer bien el enunciado completo antes de comenzar, entender qué es lo que hay que hacer, reconocer hasta qué punto necesitas como mínimo para tener el 4 y reconocer las funciones más difíciles. De esta forma cuando estés aprendiendo el lenguaje específico, podrás comenzar a plantear en tu cabeza algunas funciones, estructuras de datos, y usos para las metodologías específicas del paradigma, etc.
 
-###Aprender a aprender a programar
+### Aprender a aprender a programar
 Para hacer el laboratorio aprovechando todo el tiempo posible, debes aprender el lenguaje respectivo por tu cuenta, el profesor tardará varias semanas en pasar los conceptos básicos que realmente usarás en el proyecto, por eso debes buscar preferiblemente un tutorial en youtube, que enseña conceptos básicos del lenguaje y del paradigma de programación, luego en la clase, el profesor te enseñará de nuevo estos conceptos y rellenará detalles que no viste o que pasaste por alto.
 
-###Github
+### Github
 Aprende a crear repositorios, subir, modificar y eliminar archivos antes de comenzar.
 Recomiendo tener 2 repositorios por proyecto, uno donde guardas tu progreso real del proyecto, y el que vas a entregar para que sea revisado, en el segundo vas subiendo tu progreso por partes, constantemente.
 Puedes ver las fórmulas exactas de cómo se mide el puntaje de la sección de github en las notas de semestres anteriores, pero lo que importa es trabajar por más de 14 días, y no tener más de 1 commit al día. Si tienes que subir otro commit el mismo día, espera hasta mañana.
@@ -32,9 +32,9 @@ Puedes ver las fórmulas exactas de cómo se mide el puntaje de la sección de g
 ![Captura-Excel-3](./sources/excel3.png)
 
 
-##Resolviendo el laboratorio
+## Resolviendo el laboratorio
 
-###Resolver problemas
+### Resolver problemas
 Si tienes un problema, tu última respuesta debería ser preguntarlo por el grupo de whatsapp, porque eso significa que vas a esperar a que alguien más lo resuelva por tí.
 
 Si llevas mucho tiempo en el mismo problema y no consigues resolverlo, puedes dejarlo hasta ahí, descansar unos minutos, distraerte y volver con la mente fresca, muchas veces volverás a trabajar y se te ocurrirá en el mismo momento.
@@ -46,30 +46,30 @@ Si no sabes como hacer algo, debes buscarlo en Google o preguntarle a ChatGPT (v
 Preguntas sacadas directamente del grupo de whatsapp:
 ![Pregunta-1](./sources/pregunta-1.png)
 ![Pregunta-2](./sources/pregunta-2.png)
-###Usar google
+### Usar google
 Escribe la pregunta, no importa si no crees que tu problema es muy específico, encontrarás respuestas igualmente.
 Si tu pregunta es muy específica, tienes que generalizar, no busques “como saco un producto de mi carrito en prolog”, busca “como saco un elemento de una lista en prolog”
 Busca en inglés, hay más resultados. **Saber inglés es obligatorio para la carrera, estás estudiando informática.**
 
-###Usar ChatGPT
+### Usar ChatGPT
 Aprovecha que todavía no regulan el uso de ChatGPT en la universidad, si puedes evitarlo googleando, hazlo, al final la IA googleará por tí de todas formas.
 Puede generar código, pero tienes que probarlo y asegurarte de que funciona, si le preguntas algo, compruébalo, dependiendo de la forma en la que le preguntes, puede mentir.
 Puede comentar tu código, leelo y comprueba que sea correcto.
 No usarlo para nada matemático, es terrible.
 Recomiendo dar crédito a la ChatGPT en las partes que sea razonable hacerlo, de la misma forma que ya lo deberías hacer si sacas código de internet. Eventualmente los profesores harán algo para detectar o intentar detectar el uso de IAs, e informar su uso será obligatorio.
 
-###Problemas específicos del paradigma
+### Problemas específicos del paradigma
 La idea de programar bajo un paradigma es seguir las normas del paradigma, por lo que en algún momento te encontrarás buscando como hacer un if en prolog o un for en scheme, cosa que no deberías hacer, ya que los distintos paradigmas tienen sus propios métodos de hacer las cosas, y los profesores buscan evaluar el uso correcto del mismo.
 
 Si te encuentras en una situación en la que quieres implementar algo, y se complica demasiado, parece imposible, etc, probablemente debes pensar de nuevo la estructura de tu código y comenzar de nuevo, desde otro punto de vista. El laboratorio está pensado para poder resolverse, no para atormentar a la clase.
 
-###Escribir código ordenado/código limpio
+### Escribir código ordenado/código limpio
 Esta parte es muy importante, más de lo que crees.
 El proyecto está pensado para que uses un mes entero para resolverlo, puedes hacerlo entero si le dedicas 3 o 4 días completos, pero tomando en cuenta los otros ramos y cosas externas a la u, tienes que hacerlo a lo largo de 30 días, por lo que tu código debe ser ordenado, debe ser fácil de leer y comprender, porque no vas a recordar en el día 27 lo que hiciste en esa función el día 2, y si no la puedes entender ni tú, lo vas a terminar reescribiendo.
 
 Existen muchas técnicas y varios libros sobre código limpio, pero para el ramo recomiendo:
 
-####Nombres descriptivos:
+#### Nombres descriptivos:
 Un pequeño ejemplo que le pedí a mi ayudante muestra que el nombre de las variables le da contexto al problema, y te ayuda a visualizar mejor lo que está ocurriendo:
 * Código con nombres no descriptivos:
 ```python
@@ -87,7 +87,7 @@ print(area)
 ```
 Más: [Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 
-####Código duplicado:
+#### Código duplicado:
 
 Si estás repitiendo el mismo código, mismas líneas o mismas funciones, es signo de que necesitas crear una función nueva.
 ```python
@@ -150,7 +150,7 @@ def validar_longitud(cadena):
     return len(cadena) < LONGITUD_MAXIMA
 ```
 
-####Funciones pequeñas: 
+#### Funciones pequeñas: 
 Las funciones no deberían de ser más grandes que el tamaño de la pantalla, puedes tomar el contenido de una función complicada y meterlo dentro de otra.
 ```python
 def procesar_numeros(numeros):
@@ -220,11 +220,11 @@ El código completo se ve más grande, pero la función “procesar_numeros” e
 
 ***"An idiot admires complexity, a genius admires simplicity."*** -Terry A. Davis
 
-##Nota final
+## Nota final
 Si sabes programar, el ramo no es difícil, con un poco de organización se pasa solo.
 Me pareció importante compartir la información que sé porque la universidad no hace un buen trabajo en enseñarte a disfrutar la programación, tristemente es algo que tienes que aprender por tu cuenta.
 
-##Otras recomendaciones
+## Otras recomendaciones
 * [![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
 * [![Static Badge](https://img.shields.io/badge/Gitkraken-white?logo=gitkraken)](https://www.gitkraken.com/)
 * Aprender inglés, leer, escribir y escuchar, y acostumbrarse a programar en inglés.
@@ -232,7 +232,7 @@ Me pareció importante compartir la información que sé porque la universidad n
 * Aprender el formato de commits convencionales, útil para trabajar en grupo [Conventional Commit Messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13#examples)
 * 2 monitores en el pc.
 
-##Más
+## Más
 * [CodeAesthetic](https://www.youtube.com/@CodeAesthetic)
 * [Buenas prácticas C++](https://docs.google.com/document/d/1H1BXdbycwdnS-cJ1ONCT64W7am0vVtRJJUeFF7DcyTI/edit)
 * [C Programming Language - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=ix5jPkxsr7M)
