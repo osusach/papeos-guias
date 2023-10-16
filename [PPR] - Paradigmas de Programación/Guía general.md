@@ -2,7 +2,7 @@
 <img src="./sources/title.gif" alt="PARADIGMAS">
 <img src="./sources/ceo.jpg" width="300" alt="USACH-LOGO">
 
-[Lucas Mesías](https://github.com/Skyrdow)
+<img width="16" style="border-radius:50%;vertical-align:middle" src="https://avatars.githubusercontent.com/u/102250934?v=4"></img> [Lucas Mesías](https://github.com/Skyrdow)
 ## Introducción
 Esto NO es una guía de scheme, prolog o java, porque los profes pueden simplemente cambiar los paradigmas del laboratorio, pero aún más importante que eso, es porque el foco del ramo es que aprendas a programar. Si el ramo realmente fuera de paradigmas, pasarían 9 o 10 diferentes, las peps serían de varios paradigmas a la vez, y los laboratorios serían más cortos.
 El laboratorio es la parte más importante y que se debe llevar toda tu atención, las peps son ejercicios que ya deberías dominar si realmente hiciste bien el laboratorio respectivo.
