@@ -1,12 +1,12 @@
 # PARADIGMAS DE LA PROGRAMACIÓN
 
 ## Autores:
--  <img width="16" style="border-radius:50%;vertical-align:middle" src="https://avatars.githubusercontent.com/u/67527996?v=4"></img> [Bastián Escribano](https://github.com/vastien)
--  <img width="16" style="border-radius:50%;vertical-align:middle" src="https://avatars.githubusercontent.com/u/83312809?v=4"></img> [Carlos Vera Ramírez](https://github.com/Cveramz)
--  <img width="16" style="border-radius:50%;vertical-align:middle" src="https://avatars.githubusercontent.com/u/74688364?v=4"></img> [Daniel](https://github.com/Danaxar)
--  <img width="16" style="border-radius:50%;vertical-align:middle" src="https://avatars.githubusercontent.com/u/91446330?v=4"></img> [John Serrano](https://github.com/PodssilDev)
+-  <img width="16" src="https://avatars.githubusercontent.com/u/67527996?v=4"></img> [Bastián Escribano](https://github.com/vastien)
+-  <img width="16" src="https://avatars.githubusercontent.com/u/83312809?v=4"></img> [Carlos Vera Ramírez](https://github.com/Cveramz)
+-  <img width="16" src="https://avatars.githubusercontent.com/u/74688364?v=4"></img> [Daniel](https://github.com/Danaxar)
+-  <img width="16" src="https://avatars.githubusercontent.com/u/91446330?v=4"></img> [John Serrano](https://github.com/PodssilDev)
 
-git original: [paradigmas-de-la-programacion](https://github.com/vastien/paradigmas-de-la-programacion)
+![logo-git](./../sources/git.svg) git original: [paradigmas-de-la-programacion](https://github.com/vastien/paradigmas-de-la-programacion)
 ## IMPORTANTE: DEBES APRENDER A UTILIZAR GIT.
 
 ## ¿Qué es GIT?                   

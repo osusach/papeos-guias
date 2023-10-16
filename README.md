@@ -1,6 +1,9 @@
 # :page_facing_up: papeos-guias :pencil2:
 ## Como leer
 Las guías del repositorio se encuentran en archivos markdown (.md), solamente los README.md se "abren" automáticamente, el resto debes abrirlos tú
+
+Cada .md tiene un índice con links a los cabezales del archivo
+![ejemplo-indice](./sources/indice.png)
 ## Aportes
 ### Fork + Pull request
 Como dice arriba
