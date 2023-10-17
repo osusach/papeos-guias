@@ -61,6 +61,8 @@ En este paradigma de utiliza el lenguaje de Programación Prolog, el cual utiliz
 En este paradigma se utiliza el lenguaje de programación Java, el cual cuenta con un paradigma orientado a objetos para operar. 
 
 ### Links de interés
-[• Curso básico de java - Programación ATS](https://youtube.com/playlist?list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K)
+- [Curso básico de java - Programación ATS](https://youtube.com/playlist?list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K)
 
-[• IDE para programar en Java - Intellij Idea](https://www.jetbrains.com/es-es/idea/download/)
+- [IDE para programar en Java - Intellij Idea](https://www.jetbrains.com/es-es/idea/download/)
+
+- [USACH Programming Paradigms (Repo oficial)](https://github.com/USACH-GM-Programming-Paradigms)
