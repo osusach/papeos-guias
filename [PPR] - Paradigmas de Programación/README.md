@@ -1,4 +1,8 @@
-# PARADIGMAS DE LA PROGRAMACIÓN
+# [PPR] - PARADIGMAS DE LA PROGRAMACIÓN 
+# [Guía General](./Guía%20general.md)
+<a href="./Guía%20general.md">
+    <img width="200" src="../sources/USACHIN/IA/IA_48.png"/>
+</a>
 
 ## Autores:
 -  <img width="16" src="https://avatars.githubusercontent.com/u/67527996?v=4"></img> [Bastián Escribano](https://github.com/vastien)
