@@ -1,59 +1,23 @@
 # Colección de USACHINES IA
-![IA_1.png](./IA_1.png)
-![IA_2.png](./IA_2.png)
-![IA_3.png](./IA_3.png)
-![IA_4.png](./IA_4.png)
-![IA_5.png](./IA_5.png)
-![IA_6.png](./IA_6.png)
-![IA_7.png](./IA_7.png)
-![IA_8.png](./IA_8.png)
-![IA_9.png](./IA_9.png)
-![IA_10.png](./IA_10.png)
-![IA_11.png](./IA_11.png)
-![IA_12.png](./IA_12.png)
-![IA_13.png](./IA_13.png)
-![IA_14.png](./IA_14.png)
-![IA_15.png](./IA_15.png)
-![IA_16.png](./IA_16.png)
-![IA_17.png](./IA_17.png)
-![IA_18.png](./IA_18.png)
-![IA_19.png](./IA_19.png)
-![IA_20.png](./IA_20.png)
-![IA_21.png](./IA_21.png)
-![IA_22.png](./IA_22.png)
-![IA_23.png](./IA_23.png)
-![IA_24.png](./IA_24.png)
-![IA_25.png](./IA_25.png)
-![IA_26.png](./IA_26.png)
-![IA_27.png](./IA_27.png)
-![IA_28.png](./IA_28.png)
-![IA_29.png](./IA_29.png)
-![IA_30.png](./IA_30.png)
-![IA_31.png](./IA_31.png)
-![IA_32.png](./IA_32.png)
-![IA_33.png](./IA_33.png)
-![IA_34.png](./IA_34.png)
-![IA_35.png](./IA_35.png)
-![IA_36.png](./IA_36.png)
-![IA_37.png](./IA_37.png)
-![IA_38.png](./IA_38.png)
-![IA_39.png](./IA_39.png)
-![IA_40.png](./IA_40.png)
-![IA_41.png](./IA_41.png)
-![IA_42.png](./IA_42.png)
-![IA_43.png](./IA_43.png)
-![IA_44.png](./IA_44.png)
-![IA_45.png](./IA_45.png)
-![IA_46.png](./IA_46.png)
-![IA_47.png](./IA_47.png)
-![IA_48.png](./IA_48.png)
-![IA_49.png](./IA_49.png)
-![IA_50.png](./IA_50.png)
-![IA_51.png](./IA_51.png)
-![IA_52.png](./IA_52.png)
-![IA_53.png](./IA_53.png)
-![IA_54.png](./IA_54.png)
-![IA_55.png](./IA_55.png)
-![IA_56.png](./IA_56.png)
-![IA_57.png](./IA_57.png)
-![IA_58.png](./IA_58.png)
+
+| ![IA_1.png](./IA_1.png) | ![IA_10.png](./IA_10.png) | ![IA_11.png](./IA_11.png) | 
+| --------- | -------- | -------- |
+| ![IA_12.png](./IA_12.png) | ![IA_13.png](./IA_13.png) | ![IA_14.png](./IA_14.png) | 
+| ![IA_15.png](./IA_15.png) | ![IA_16.png](./IA_16.png) | ![IA_17.png](./IA_17.png) | 
+| ![IA_18.png](./IA_18.png) | ![IA_19.png](./IA_19.png) | ![IA_2.png](./IA_2.png) | 
+| ![IA_20.png](./IA_20.png) | ![IA_21.png](./IA_21.png) | ![IA_22.png](./IA_22.png) | 
+| ![IA_23.png](./IA_23.png) | ![IA_24.png](./IA_24.png) | ![IA_25.png](./IA_25.png) | 
+| ![IA_26.png](./IA_26.png) | ![IA_27.png](./IA_27.png) | ![IA_28.png](./IA_28.png) | 
+| ![IA_29.png](./IA_29.png) | ![IA_3.png](./IA_3.png) | ![IA_30.png](./IA_30.png) | 
+| ![IA_31.png](./IA_31.png) | ![IA_32.png](./IA_32.png) | ![IA_33.png](./IA_33.png) | 
+| ![IA_34.png](./IA_34.png) | ![IA_35.png](./IA_35.png) | ![IA_36.png](./IA_36.png) | 
+| ![IA_37.png](./IA_37.png) | ![IA_38.png](./IA_38.png) | ![IA_39.png](./IA_39.png) | 
+| ![IA_4.png](./IA_4.png) | ![IA_40.png](./IA_40.png) | ![IA_41.png](./IA_41.png) | 
+| ![IA_42.png](./IA_42.png) | ![IA_43.png](./IA_43.png) | ![IA_44.png](./IA_44.png) | 
+| ![IA_45.png](./IA_45.png) | ![IA_46.png](./IA_46.png) | ![IA_47.png](./IA_47.png) | 
+| ![IA_48.png](./IA_48.png) | ![IA_49.png](./IA_49.png) | ![IA_5.png](./IA_5.png) | 
+| ![IA_50.png](./IA_50.png) | ![IA_51.png](./IA_51.png) | ![IA_52.png](./IA_52.png) | 
+| ![IA_53.png](./IA_53.png) | ![IA_54.png](./IA_54.png) | ![IA_55.png](./IA_55.png) | 
+| ![IA_56.png](./IA_56.png) | ![IA_57.png](./IA_57.png) | ![IA_58.png](./IA_58.png) | 
+| ![IA_6.png](./IA_6.png) | ![IA_7.png](./IA_7.png) | ![IA_8.png](./IA_8.png) | 
+| ![IA_9.png](./IA_9.png) | 
