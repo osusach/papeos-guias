@@ -1,0 +1,11 @@
+10 14
+oooeoooooooooo
+oxxxxxxxxooxxo
+oxoxxoxoxooxxo
+oxoxxoxoxoxxxo
+oxooxoxoxxxxoo
+ooooxoxooooooo
+oxxxxxxxxxxxxo
+oxoxooooooooxo
+oxoxxxxxxxxxxo
+ooooooooosoooo

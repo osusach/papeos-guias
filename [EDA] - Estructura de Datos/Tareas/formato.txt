@@ -1,0 +1,10 @@
+nicolas 19 no_visto
+matias 20 visto
+ignacio 20 visto
+locomotivo 100 no_visto
+camilo 19 no_visto
+claudio 21 no_visto
+lucas 19 visto
+nez 27 visto
+gonzalo 19 visto
+alonso 19 visto
