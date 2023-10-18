@@ -4,6 +4,13 @@
 - <img width="16" style="border-radius:50%;vertical-align:middle" src="https://avatars.githubusercontent.com/u/97257980?v=4"></img> [Joaquín Saldivia](https://github.com/Klefur)
 - <img width="16" style="border-radius:50%;vertical-align:middle" src="https://avatars.githubusercontent.com/u/102250934?v=4"></img> [Lucas Mesías](https://github.com/Skyrdow)
 
+## Puedo copiar los códigos?
+Las estructuras básicas (cola, pila, lista, grafo, etc) y los algoritmos con nombres (dijkstra, bubble sort, quicksort, kruskal, prim, etc) se hacen de la misma forma, quizás pueden variar en el órden de algunas instrucciones que no afectan el comportamiento, pero dificilmente vas a encontrar mil formas distintas de hacerlos.
+
+Idealmente deberías hacerlo por tu cuenta la primera vez, y tener tus propias versiones para los laboratorios, ya que los profesores usan programas anti-copia para contrastar todos los códigos con todos los códigos.
+
+Si el foco de la evaluación no es crear estas estructuras, no me preocuparía por usar código sacado de otra parte (en caso de hacerlo DEBES indicar su origen), aunque lo más seguro siempre es consultar a tu profesor/a al respecto.
+
 ## Controles:
 
 - Control 1: se busca crear un algoritmo capaz de resolver un laberinto sin estructuras complejas
