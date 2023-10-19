@@ -10,10 +10,28 @@ Algo muy importante que se debe entender es que saber programar es muy distinto 
 
 C, a diferencia de Python, es un lenguaje compilado. Esto quiere decir que cada vez que quieran ejecutar el programa que hayan escrito deberán compilarlo, es decir, transformar el archivo .C en un ejecutable. Existen varios compiladores, pero el utilizado en este curso (y en general) es gcc. 
 
-La estructura de un programa en C está conformada en tres partes principales. La primera, consiste en la declaración de bibliotecas, muy parecido a cuando hacían "import" en Python. La segunda, consiste en todas las funciones y variables globales del programa, y la última, y más importante, la función main. La función main es fundamental en cualquier programa en C, pues al correr el programa, el computador busca el main y lo ejecuta. Si no hay una función main, no sucederá nada.
+La estructura de un programa en C está conformada en tres partes principales. La primera, consiste en la declaración de bibliotecas, muy parecido a cuando hacían `import` en Python. La segunda, consiste en todas las funciones y variables globales del programa, y la última, y más importante, la función main. La función main es fundamental en cualquier programa en C, pues al correr el programa, el computador busca el main y lo ejecuta. Si no hay una función main, no sucederá nada.
 
-También es muy importante mencionar que C es un lenguaje estáticamente tipado, es decir, que primero, ustedes deben indicar de qué tipo es la variable que quieren asignar, y ese tipado no puede cambiar. Lo bueno es que una vez lo declaran, no es necesario declararlo de nuevo, y el mismo compilador les dirá que está malo, en caso de que quieran asignar tipos que no correspondan.
-Por ejemplo
+También es muy importante mencionar que C es un lenguaje fuertemente tipado, es decir, que primero, ustedes deben indicar de qué tipo es la variable que quieren asignar, y ese tipado no puede cambiar. Lo bueno es que una vez lo declaran, no es necesario declararlo de nuevo, y el mismo compilador les dirá que está malo, en caso de que quieran asignar tipos que no correspondan.
+
+## Tipado vs No Tipado, diferencias y su efecto en memoria
+Que un lenguaje sea tipado, implica que debes indicar qué tipo de dato vas a almacenar en memoria antes de comenzar a trabajar con él.
+```c
+int x; // alocar memoria para una variable
+x = 5; // asignar valor
+x = "Hola!"; // error de compilación, "Hola!" no es de tipo entero
+```
+Por el contrario, en un lenguaje *no tipado* como Python, puedes simplemente tener una variable y sobreescribir el valor como quieras.
+```python
+x = 5
+x = "Hola!"
+```
+### ¿Porqué en C no se puede y en Python sí?
+Python es considerado un lenguaje de alto nivel, está hecho para ser un mediador entre tú y la computadora, siendo lo más amigable posible contigo, Python hace muchas cosas por ti sin que te des cuenta. Por este motivo, Python es uno de los lenguajes más populares entre los programadores novatos.
+
+C es considerado un lenguaje de bajo nivel, está hecho para darte mayor control sobre la computadora, ahora eres responsable de manejar la memoria de tu programa correctamente. *"C hace que el mundo gire"*, con esta herramienta se hizo Windows y Unix (Linux). El intérprete de python está hecho en C.fuertemente
+
+## Ejemplos de tipado en C
 
 ### Correcto
 Acá se declara una variable number y se le asigna instantáneamente el número 69.
@@ -71,7 +89,7 @@ Este es un poco más personal, pero encuentro muy práticos estos operadores que
 int number = 5;
 int result = 10 + number++
 ```
-Al final de este ejemplo, el valor de number es `6` y el valor de result es `15`, pero ¿Qué está sucediendo acá?
+Al final de este ejemplo, el valor de `number` es `6` y el valor de `result` es `15`, pero ¿Qué está sucediendo acá?
 
 Sucede que cuando el operador `++` es utilizado, este suma `1`, y cuando va después de la variable, lo hace después de ser "evaluado". Es decir, que primero que hace el cálculo de la suma entre `10` y `number`, y después se aumenta el valor en uno a `number`.
 
