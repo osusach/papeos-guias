@@ -14,7 +14,7 @@ Si el foco de la evaluación no es crear estas estructuras, no me preocuparía p
 
 ## Guías:
 Las guías en esta carpeta buscan entregar contenido y ayudar a comprender mejor los tópicos del ramo, no buscan reemplazar la asistencia a las clases.
-- Introducción a C: Guía para transicionar desde Python (FPI) al lenguaje de programación C.
+- [Introducción a C](./Introducción%20a%20C.md): Guía para transicionar desde Python (FPI) al lenguaje de programación C.
 
 
 ## Controles:
