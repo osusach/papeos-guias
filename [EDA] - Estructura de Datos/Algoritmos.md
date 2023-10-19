@@ -43,14 +43,14 @@ Existen dos formas principales de escribir algoritmos (Antes de pasarlos directa
 Los diagramas de flujo son, como su nombre indica, diagramas. Son una forma muy gráfica de observar un algoritmo, pues sólo es necesario seguir el flujo para comprender qué se realiza. 
 
 
-<p align="center"><img src="../sources/FlujoEj.png" width="300"/></p>
+<p align="center"><img src="./sources/FlujoEj.png" width="300"/></p>
 
 
 Es, probablemente, la forma más natural de mostrar un algoritmo, y es importante mencionar también que no es obligatorio que las partes del diagrama posean código, también pueden ser instrucciones naturales, como las que se veían en el ejemplo de servir jugo.
 
 También es muy importante respetar la forma de cada elemento del diagrama. Personalmente creo que es redundante, sin embargo en caso de no seguir los lineamientos, dejamos de tener un diagrama de flujo y pasamos a tener simplemente un diagrama. Cada figura (Cuadrado, rombo, romboide y elipse) tiene una función específica e implica un comportamiento dentro del diagrama. La siguiente tabla los explica 
 
-<p align="center"><img src="../sources/Flujo1.png" width="300"/></p>
+<p align="center"><img src="./sources/Flujo1.png" width="300"/></p>
 
 ### Pseudocódigo
 
@@ -58,7 +58,7 @@ El pseudocódigo por otro lado, es mucho más parecido a lo que ya deberían hab
 
 A lo largo de la carrera verán varias formas de escribir pseudo, sin embargo la forma que utilizan en EDA es idéntica a Python, sólo que se deben especificar el tipo de dato de entrada y de salida. El ejemplo que dejan en las diapositivas es bastante bueno.
 
-<p align="center"><img src="../sources/Pseudo.png" width="600"/></p>
+<p align="center"><img src="./sources/Pseudo.png" width="600"/></p>
 
 
 Es vital tener cuidado siempre de respetar la identación correctamente, pues es la única forma de saber a qué está asociada cada instrucción.
