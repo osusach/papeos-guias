@@ -2,21 +2,30 @@
 
 El propósito de este repo es alojar aportes voluntarios de alumnos que quieran compartir sus conocimientos sobre los ramos de la carrera, si estás buscando material sobre un curso y no puedes encontrar en ninguna parte, significa que alguien con los conocimientos y habilidades para hacerlo, debe hacerlo. 
 
-Detente a considerar si esa persona eres tú. **Este proyecto depende totalmente de la voluntad de pocos para mejorar la calidad de la educación de todos.**
+Detente a considerar si esa persona eres tú. **Este proyecto depende totalmente de la voluntad de pocos para mejorar la calidad de la educación de todos.** [COMO APORTAR](#tengo-un-aporte-y-quiero-subirlo)
 
-<h2>
-    <div align="center">
-        <img src="./sources/USACHIN/IA/IA_59.png" width="300"/>
-    </div>
-    Tengo un aporte y quiero subirlo
-</h2>
+## ¿Cuál es la diferencia entre una `Guía` y un `Resumen`?
+
+Un resumen debería ser el contenido del curso presentado en un formato breve.
+
+Una guía debería contener la información sobre el curso que **no** se enseña en el curso. Mañas de los profesores, conocimientos previos o suplementarios, recomendaciones y otras cosas que anteriormente solo se decían de boca a boca.
+
+## ¿Porqué preferimos `markdown` y no `PDFs`?
+
+La razón más práctica es el peso del pdf, es que al clonar el repositorio se descargan todos los archivos. Al momento de comenzar este proyecto subimos 12 PDFs y cada pull tardó entre *1 y 2 minutos*.
+
+La razón correcta es que [el texto plano es simplemente superior](https://www.youtube.com/watch?v=WgV6M1LyfNY), carga más rápido, es mucho más ligero, es legible sin renderizar y es fácil de modificar.
+
+## Tengo un aporte y quiero subirlo <img align="center" src="./sources/USACHIN/IA/IA_59.png" width="48"/>
 
 ### 1. Fork + Pull request
-Como dice arriba.
+
+<img align="right" src="./sources/USACHIN/IA/IA_61.png" width="256"/>
+
+Como dice arriba. 
 
 Considera forkear la branch `folders`, tiene sólo las carpetas de cada carrera, sin archivos.
 
-<img src="./sources/USACHIN/IA/IA_61.png" width="300"/>
 
 ### 2. Enviar aporte por correo
 Envía tu aporte a ignacio.lara.v@usach.cl y lucas.mesias@usach.cl, incluye en el asunto `papeos-guias`
@@ -43,6 +52,10 @@ Cada .md tiene un índice con links a los cabezales del archivo
 ### PDFs grandes
 Los PDFs más extensos tienen un botón para mostrár más páginas que en algunos casos es difícil de ver
 ![more_pages_pdf](sources/more_pages.png)
+
+## Links originales
+
+![logo-git](./sources/git.svg) git original: [paradigmas-de-la-programacion](https://github.com/vastien/paradigmas-de-la-programacion)
 
 
 ## Sources

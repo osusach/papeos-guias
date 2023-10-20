@@ -5,22 +5,27 @@
 </a>
 
 ## Autores:
+### Paradigma orientado a objetos
+
+![logo-git](./../sources/git.svg) git original: [paradigmas-de-la-programacion](https://github.com/vastien/paradigmas-de-la-programacion)
 -  <img width="16" src="https://avatars.githubusercontent.com/u/67527996?v=4"></img> [Bastián Escribano](https://github.com/vastien)
 -  <img width="16" src="https://avatars.githubusercontent.com/u/83312809?v=4"></img> [Carlos Vera Ramírez](https://github.com/Cveramz)
 -  <img width="16" src="https://avatars.githubusercontent.com/u/74688364?v=4"></img> [Daniel](https://github.com/Danaxar)
 -  <img width="16" src="https://avatars.githubusercontent.com/u/91446330?v=4"></img> [John Serrano](https://github.com/PodssilDev)
 
-![logo-git](./../sources/git.svg) git original: [paradigmas-de-la-programacion](https://github.com/vastien/paradigmas-de-la-programacion)
+### Lógico & OOP
+-  <img width="16" src="https://avatars.githubusercontent.com/u/96759895?v=4"></img> [Jorge Jimenez](https://github.com/shinkest)
+
 ## IMPORTANTE: DEBES APRENDER A UTILIZAR GIT.
 
-## ¿Qué es GIT?                   
+### ¿Qué es GIT?                   
 Git es un controlador de versiones para tu código, es una herramienta maravillosa. 
 ¡OJO!, no lo confundas con GitHub, éste último es un servicio para GIT. Te permite subir tu código versionado y hacer varias cosas más interesantes.       
 
-## ¿Cómo usar GIT?               
+### ¿Cómo usar GIT?               
 Mira [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ31ts8) donde te enseña detalladamente cómo utilizar GIT.
 
-## ¿Dónde descargo GIT?                        
+### ¿Dónde descargo GIT?                        
 [Descárgalo aquí.](https://git-scm.com/downloads)                               
 
 ________________________________________________________________________________________________________________
@@ -39,7 +44,7 @@ Todo es una función. No hay variables, no hay mutación de datos. Todo es recur
 
 [¿Qué es una recursión?](https://www.youtube.com/watch?v=yX5kR63Dpdw)
 
-## Curso de Scheme
+### Curso de Scheme
                                           
 [Racket – 1. Introducción al entorno](https://www.youtube.com/watch?v=NwZPlLTK-UQ)                                   
 [Racket – 2. Definiciones, funciones y comentarios](https://www.youtube.com/watch?v=rs9HGt-sM04)                            
