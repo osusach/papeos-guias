@@ -8,13 +8,13 @@
 ### Paradigma orientado a objetos
 
 ![logo-git](./../sources/git.svg) git original: [paradigmas-de-la-programacion](https://github.com/vastien/paradigmas-de-la-programacion)
--  <img width="16" src="https://avatars.githubusercontent.com/u/67527996?v=4"></img> [Bastián Escribano](https://github.com/vastien)
--  <img width="16" src="https://avatars.githubusercontent.com/u/83312809?v=4"></img> [Carlos Vera Ramírez](https://github.com/Cveramz)
--  <img width="16" src="https://avatars.githubusercontent.com/u/74688364?v=4"></img> [Daniel](https://github.com/Danaxar)
--  <img width="16" src="https://avatars.githubusercontent.com/u/91446330?v=4"></img> [John Serrano](https://github.com/PodssilDev)
+-  <img width="16" align="center" src="https://avatars.githubusercontent.com/u/67527996?v=4"></img> [Bastián Escribano](https://github.com/vastien)
+-  <img width="16" align="center" src="https://avatars.githubusercontent.com/u/83312809?v=4"></img> [Carlos Vera Ramírez](https://github.com/Cveramz)
+-  <img width="16" align="center" src="https://avatars.githubusercontent.com/u/74688364?v=4"></img> [Daniel](https://github.com/Danaxar)
+-  <img width="16" align="center" src="https://avatars.githubusercontent.com/u/91446330?v=4"></img> [John Serrano](https://github.com/PodssilDev)
 
 ### Lógico & OOP
--  <img width="16" src="https://avatars.githubusercontent.com/u/96759895?v=4"></img> [Jorge Jimenez](https://github.com/shinkest)
+-  <img width="16" align="center" src="https://avatars.githubusercontent.com/u/96759895?v=4"></img> [Jorge Jimenez](https://github.com/shinkest)
 
 ## IMPORTANTE: DEBES APRENDER A UTILIZAR GIT.
 

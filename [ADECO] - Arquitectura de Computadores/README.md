@@ -1,8 +1,7 @@
-# [SISTOPE] - Sistemas Operativos
+# [ADECO] - Arquitectura de Computadores
 
-- [\[SISTOPE\] - Sistemas Operativos](#sistope---sistemas-operativos)
+- [\[ADECO\] - Arquitectura de Computadores](#adeco---arquitectura-de-computadores)
 - [Autores](#autores)
-
 
 # Autores
 - <img width="16" align="center" src="https://avatars.githubusercontent.com/u/97463001?v=4"></img> [Nicolás Aguilera](https://github.com/Don-Uldaricio)
