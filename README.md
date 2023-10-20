@@ -9,8 +9,8 @@
   - [3. Enviar aporte por correo](#3-enviar-aporte-por-correo)
   - [4. Únete a OsUsach](#4-únete-a-osusach)
 - [Cómo leer](#cómo-leer)
-- [Índices](#índices)
-- [PDFs grandes](#pdfs-grandes)
+  - [Índices](#índices)
+  - [PDFs grandes](#pdfs-grandes)
 - [Links originales](#links-originales)
 - [Sources](#sources)
   - [Como agregar más iconos:](#como-agregar-más-iconos)
@@ -64,11 +64,11 @@ Contáctanos:
 # Cómo leer
 Las guías del repositorio se encuentran en archivos markdown (.md), solamente los README.md se "abren" automáticamente, el resto debes abrirlos tú
 
-# Índices
+## Índices
 Cada .md tiene un índice con links a los cabezales del archivo
 ![ejemplo_indice](./sources/indice.png)
 
-# PDFs grandes
+## PDFs grandes
 Los PDFs más extensos tienen un botón para mostrár más páginas que en algunos casos es difícil de ver
 ![more_pages_pdf](sources/more_pages.png)
 

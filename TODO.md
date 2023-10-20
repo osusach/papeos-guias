@@ -1,7 +1,7 @@
 # TODO
 #### `to-do` *(por-hacer)*
 
-## General
+# General
 - [x] Guía de markdown en github
 - [ ] Guía de estilo estandar para el repo
 - [ ] Guía de buenas prácticas de programación

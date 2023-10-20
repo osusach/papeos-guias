@@ -9,9 +9,9 @@
 
 
 # Autores
-- <img width="16" align="center" src="https://avatars.githubusercontent.com/u/97257980?v=4"></img> [Joaquín Saldivia](https://github.com/Klefur)
-- <img width="16" align="center" src="https://avatars.githubusercontent.com/u/102250934?v=4"></img> [Lucas Mesías](https://github.com/Skyrdow)
-- <img width="16" align="center" src="https://avatars.githubusercontent.com/u/71242366?v=4"></img> [Ignacio Lara](https://github.com/kappita)
+- <img width="32" align="center" src="https://avatars.githubusercontent.com/u/97257980?v=4"></img> [Joaquín Saldivia](https://github.com/Klefur)
+- <img width="32" align="center" src="https://avatars.githubusercontent.com/u/102250934?v=4"></img> [Lucas Mesías](https://github.com/Skyrdow)
+- <img width="32" align="center" src="https://avatars.githubusercontent.com/u/71242366?v=4"></img> [Ignacio Lara](https://github.com/kappita)
 
 # Puedo copiar los códigos?
 Las estructuras básicas (cola, pila, lista, grafo, etc) y los algoritmos con nombres (dijkstra, bubble sort, quicksort, kruskal, prim, etc) se hacen de la misma forma, quizás pueden variar en el órden de algunas instrucciones que no afectan el comportamiento, pero dificilmente vas a encontrar mil formas distintas de hacerlos.
