@@ -1,7 +1,7 @@
 # [PPR] - PARADIGMAS DE LA PROGRAMACIÓN 
 # [Guía General](./Guía%20general.md)
 <a href="./Guía%20general.md">
-    <img width="200" src="../sources/USACHIN/IA/IA_48.png"/>
+    <img width="200" src="https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_48.png"/>
 </a>
 
 ## Autores:

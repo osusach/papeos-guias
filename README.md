@@ -32,11 +32,11 @@ La razón más práctica es el peso del pdf, es que al clonar el repositorio se 
 
 La razón correcta es que [el texto plano es simplemente superior](https://www.youtube.com/watch?v=WgV6M1LyfNY), carga más rápido, es mucho más ligero, es legible sin renderizar y es fácil de modificar.
 
-# Tengo un aporte y quiero subirlo <img align="center" src="./sources/USACHIN/IA/IA_59.png" width="48"/>
+# Tengo un aporte y quiero subirlo <img align="center" src="https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_59.png" width="48"/>
 
 ## 1. Fork + Pull request
 
-<img align="right" src="./sources/USACHIN/IA/IA_61.png" width="256"/>
+<img align="right" src="https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_61.png" width="256"/>
 
 Como dice arriba. 
 
@@ -59,7 +59,7 @@ Contáctanos:
 |<img width="32" src="https://avatars.githubusercontent.com/u/102250934?v=4"></img> |[Lucas Mesias](https://github.com/Skyrdow) | lucas.mesias@usach.cl | ![discord](./sources/discord.svg) skyrdow |
 |<img width="32" src="https://avatars.githubusercontent.com/u/65258503?v=4"></img> |[René Caceres](https://github.com/panquequelol) | ignacio.lara.v@usach.cl | ![discord](./sources/discord.svg) renecaceres |
 
-<img src="./sources/USACHIN/IA/IA_1.png" width="200"/>
+<img src="https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_1.png" width="200"/>
 
 # Cómo leer
 Las guías del repositorio se encuentran en archivos markdown (.md), solamente los README.md se "abren" automáticamente, el resto debes abrirlos tú

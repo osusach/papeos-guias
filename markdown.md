@@ -57,16 +57,16 @@ char *mensaje = "Este es un bloque de código de c";
 
 [Este es un link a un cabezal de este .md](#como-ver-el-código)
 
-[Este es un link a un archivo en una sub-carpeta](./sources/USACHIN/IA/IA_14.png)
+[Este es un link a un archivo en una sub-carpeta](https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_14.png)
 
 Esta es una imagen a tamaño original, este método es más rápido pero tienes menos control (una tabla puede restringir el tamaño automáticamente):
-![imagen](./sources/USACHIN/IA/IA_14.png)
+![imagen](https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_14.png)
 
 Esta es una imagen si quieres hacer modificaciones:
-<img width="32" align="center" src="./sources/USACHIN/IA/IA_14.png"/>
+<img width="32" align="center" src="https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_14.png"/>
 
 Una imagen de altura 16 es del mismo tamaño que el texto, pero es más dificil de ver
-<img width="16" align="center" src="./sources/USACHIN/IA/IA_14.png"/>.
+<img width="16" align="center" src="https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_14.png"/>.
 Github usa un html más limitado que el normal
 
 Esto es una tabla:
