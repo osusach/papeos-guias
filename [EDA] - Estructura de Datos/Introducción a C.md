@@ -1,5 +1,28 @@
 # El lenguaje C
 
+- [C](#c)
+- [Tipado vs No Tipado, diferencias y su efecto en memoria](#tipado-vs-no-tipado-diferencias-y-su-efecto-en-memoria)
+  - [¿Porqué en C no se puede y en Python sí?](#porqué-en-c-no-se-puede-y-en-python-sí)
+- [Ejemplos de tipado en C](#ejemplos-de-tipado-en-c)
+  - [Correcto](#correcto)
+  - [Correcto](#correcto-1)
+  - [Correcto](#correcto-2)
+  - [Incorrecto](#incorrecto)
+  - [Incorrecto](#incorrecto-1)
+- [Operadores](#operadores)
+  - [Incrementación y disminución](#incrementación-y-disminución)
+  - [Operadores Lógicos](#operadores-lógicos)
+    - [And](#and)
+    - [Or](#or)
+    - [Not](#not)
+  - [Operador condicional](#operador-condicional)
+  - [Operadores cíclicos](#operadores-cíclicos)
+    - [While](#while)
+    - [For](#for)
+- [Funciones](#funciones)
+  - [Void](#void)
+
+
 Todo lo mencionado en Algoritmos debieron haberlo visto, o por lo menos haber obtenido una noción de ello con los ramos que ya han tenido, ya sea Fundamentos de Programación o Fundamentos de Computación, sin embargo C debería ser completamente nuevo, a menos que hayan estudiado por su cuenta.
 
 C difiere bastante de lo que es Python en bastantes aspectos. C es un lenguaje que te entrega muchas más libertades y acceso a los recursos de computador, como la memoria del computador, e incluso propiedades del procesador y el sistema operativo. Sin embargo, no se preocupen, en este ramo sólo verán el acceso a la memoria, el lado del procesador y sistema operativo lo verán en SISTOPE (Junten miedo).

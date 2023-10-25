@@ -4,6 +4,21 @@
     <img width="200" src="https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_48.png"/>
 </a>
 
+- [Autores:](#autores)
+  - [Paradigma orientado a objetos](#paradigma-orientado-a-objetos)
+  - [Lógico \& OOP](#lógico--oop)
+- [IMPORTANTE: DEBES APRENDER A UTILIZAR GIT.](#importante-debes-aprender-a-utilizar-git)
+  - [¿Qué es GIT?](#qué-es-git)
+  - [¿Cómo usar GIT?](#cómo-usar-git)
+  - [¿Dónde descargo GIT?](#dónde-descargo-git)
+- [Paradigma Funcional: Scheme - Intérprete de Lisp](#paradigma-funcional-scheme---intérprete-de-lisp)
+  - [Curso de Scheme](#curso-de-scheme)
+- [Paradigma Lógico: Prolog - SWI-Prolog](#paradigma-lógico-prolog---swi-prolog)
+  - [Links de interés](#links-de-interés)
+- [Paradigma Orientado a Objetos: Java ☕](#paradigma-orientado-a-objetos-java-)
+  - [Links de interés](#links-de-interés-1)
+
+
 ## Autores:
 ### Paradigma orientado a objetos
 
