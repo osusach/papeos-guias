@@ -2,9 +2,6 @@
 
 - [Como ver el código](#como-ver-el-código)
 - [Sintaxis de markdown](#sintaxis-de-markdown)
-- [Este es un cabezal 1](#este-es-un-cabezal-1)
-- [Este es un cabezal 2](#este-es-un-cabezal-2)
-  - [Este es un cabezal 3](#este-es-un-cabezal-3)
 - [Previsualizadores de Markdown](#previsualizadores-de-markdown)
   - [Editor de markdown online](#editor-de-markdown-online)
   - [Extensión de VSCode](#extensión-de-vscode)
