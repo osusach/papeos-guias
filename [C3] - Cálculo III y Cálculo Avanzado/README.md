@@ -3,12 +3,12 @@
 - [Autores](#autores)
 - [Formato de nombres](#formato-de-nombres)
 
-## Autores
+# Autores
 - <img width="32" align="center" src="https://avatars.githubusercontent.com/u/71242366?v=4"></img> [Ignacio Lara](https://github.com/kappita)
 - [PAIEP USACH](https://www.instagram.com/paiep_usantiago/)
 
 
-## Formato de nombres
+# Formato de nombres
 
 Las pruebas y controles de este repositorio tienen su nombre formateado para encontrarlos con mayor facilidad. A pesar de los esfuerzos, la coordinación de Cálculo III y Cálculo Avanzado es muy desordenada al momento de tener que evaluar a tres secciones al mismo tiempo, además que han cambiado sus diferentes enfoques a lo largo del tiempo. Lo que se logró hacer sigue estas reglas:
 - La carpeta Pruebas incluye tanto PEPs como pruebas recuperativas (POR, PAR, PA, etc) y de suficiencia (PAS).

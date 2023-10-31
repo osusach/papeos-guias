@@ -1,6 +1,5 @@
 # Markdown
 
-- [Markdown](#markdown)
 - [Como ver el código](#como-ver-el-código)
 - [Sintaxis de markdown](#sintaxis-de-markdown)
 - [Este es un cabezal 1](#este-es-un-cabezal-1)
