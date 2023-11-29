@@ -27,6 +27,11 @@ Un resumen debería ser el contenido del curso presentado en un formato breve.
 
 Una guía debería contener la información sobre el curso que **no** se enseña en el curso. Mañas de los profesores, conocimientos previos o suplementarios, recomendaciones y otras cosas que anteriormente solo se decían de boca a boca.
 
+## Guías que merecen la pena leer en cualquier momento
+
+- [Breve sintáxis de markdown](./markdown.md)
+- [Escribe más, teclea menos](./typing.md)
+
 # ¿Porqué preferimos `markdown` y no `PDFs`?
 
 La razón más práctica es el peso del pdf, es que al clonar el repositorio se descargan todos los archivos. Al momento de comenzar este proyecto subimos 12 PDFs y cada pull tardó entre *1 y 2 minutos*.

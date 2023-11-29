@@ -4,6 +4,8 @@
     <img width="200" src="https://github.com/open-source-usach/artwork-usachin/blob/main/IA/IA_48.png"/>
 </a>
 
+https://drive.google.com/drive/u/1/folders/1m4vEngSa4qTyHEpOS4Icv1dnQ36jR0Yu
+
 - [Autores:](#autores)
   - [Paradigma orientado a objetos](#paradigma-orientado-a-objetos)
   - [Lógico \& OOP](#lógico--oop)
