@@ -10,7 +10,7 @@
 
 # Formato de nombres
 
-Se incluyen solamente PEPs hasta el momento. Existen evaluaciones de modalidad vespertina y diurna.
+Se incluyen solamente PEPs hasta el momento, algunas con pauta. Existen evaluaciones de modalidad vespertina y diurna.
 
 Todos estos documentos siguen la siguiente convención de nombre:
 
